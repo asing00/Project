@@ -1,3 +1,5 @@
+
+
 For this project I downloaded the latest data set of Covid-19 infections from https://ourworldindata.org/
 
 I then cleaned the data, and imported into a database I hosted on my local machine
