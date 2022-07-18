@@ -1,4 +1,4 @@
-
+# Covid 19 Tableau Dashboard #
 
 For this project I downloaded the latest data set of Covid-19 infections from https://ourworldindata.org/
 
